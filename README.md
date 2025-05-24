@@ -1,2 +1,2 @@
-# Machu202.githubio
+# Machu202.github.io
 All my project I've done in university
